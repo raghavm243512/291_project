@@ -1,0 +1,17 @@
+model,dataset,loss
+eng,eng,0.06530011996164237
+eng,he.jap.hi_qonly,0.7291434640977897
+eng,hi_qonly,0.7212751227266648
+eng,es,0.19346892346743666
+he.jap.hi_qonly,eng,0.15823664513775726
+he.jap.hi_qonly,he.jap.hi_qonly,0.4779552345961527
+he.jap.hi_qonly,hi_qonly,0.46764136587872224
+he.jap.hi_qonly,es,0.21983975508049422
+hi_qonly,eng,0.1642961320436858
+hi_qonly,he.jap.hi_qonly,0.48302546844762917
+hi_qonly,hi_qonly,0.45701199789452396
+hi_qonly,es,0.2297605349152696
+base,eng,1.4357109887927186
+base,he.jap.hi_qonly,2.205637215009702
+base,hi_qonly,2.1999989233764947
+base,es,2.009349780534607
